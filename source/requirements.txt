@@ -1,2 +1,1 @@
 reflex-core
-boto3
